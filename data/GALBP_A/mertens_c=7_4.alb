@@ -1,0 +1,57 @@
+<number of tasks>
+7
+
+<cycle time>
+7
+
+<task times>
+1 1
+2 5
+3 4
+4 3
+5 5
+6 6
+7 5
+
+<task process alternatives>
+1: 1,15 ; 2,8
+2: 4,15 ; 6,8
+3: 4,15 ; 5,8
+4: 3,15 ; 4,8
+5: 4,15 ; 6,8
+6: 5,15 ; 8,8
+7: 4,15 ; 6,8
+
+<incompatible tasks>
+5,3
+1,5
+
+<precedence relations>
+1,2
+1,4
+2,3
+5,6
+2,5
+4,7
+
+<number of task attributes>
+1
+
+<task attribute values>
+1,1:70
+2,1:6
+4,1:69
+5,1:91
+6,1:81
+7,1:7
+
+<attribute bounds per station>
+1:100
+
+<optimal SALBP-1 value>
+5
+
+<rand seed>
+236278236
+
+<end>
